@@ -1,6 +1,6 @@
 ## About me
 Hey, I'm Robin also known as Mempler.
-I'm a 17 year old developer from Germany who develops
+I'm a 18 year old developer from Germany who develops
 in various Programming Languages.
 
 ## Languages, IDEs and Tools
